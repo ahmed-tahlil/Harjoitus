@@ -1,8 +1,1 @@
-#Ensimmäiset python-koodit
-print("Moro maailma!")
-print("Toinen tulostos")
-#uusi kommentti
-
-print("moi")
-
-print("testi")
+print("Hei, Ahmed Tahlil!")
