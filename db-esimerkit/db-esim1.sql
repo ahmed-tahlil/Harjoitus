@@ -1,6 +1,6 @@
 -- 
 
-CREATE USER user1@localhost IDENTIFIED BY 'salakala';
+CREATE USER ahmedt@localhost IDENTIFIED BY 'salakala';
  -- Poistetaan tietokanta jos on olemassa
 DROP DATABASE IF EXISTS ankkalinna;
 
