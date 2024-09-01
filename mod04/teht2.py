@@ -6,5 +6,3 @@ while tuuma >= 0:
     tuuma = int(input("Kerro tuumien määrä: "))
     if tuuma < 0:
         break
-
-##print(tuuma)
